@@ -2,5 +2,8 @@
 Starter template react native version : 0.67.2
 
 
-#reference from
+# Reference from
 https://github.com/byprogrammers/LCRN15-food-recipe-app-starter
+
+# Included Package
+React-navigation
